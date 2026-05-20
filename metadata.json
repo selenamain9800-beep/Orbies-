@@ -1,0 +1,6 @@
+{
+  "name": "Orbis.Nft",
+  "description": "Beyond earth and its familiar boundaries. An exploration of distance, form, and silence in space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
